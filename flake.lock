@@ -92,18 +92,16 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1711049379,
+        "lastModified": 1711050907,
         "narHash": "sha256-yz3f+Gz67paLGTtJAZI/0t/enkzGJCGMzGFEfCPMupM=",
-        "owner": "DeterminateSystems",
-        "repo": "nix-upgrade",
-        "rev": "e4dd29dcd7759490dcbd832f1d64b6bebbaa51ac",
-        "type": "github"
+        "rev": "7cef287ac42d7f6c2837fb4052b472aa70d782a9",
+        "revCount": 49,
+        "type": "tarball",
+        "url": "https://api.flakehub.com/f/pinned/DeterminateSystems/nix/2.21.0-rc.1/018e62ab-98ca-7209-ab9e-ec3cbedb2fec/source.tar.gz"
       },
       "original": {
-        "owner": "DeterminateSystems",
-        "ref": "grahamc-patch-1",
-        "repo": "nix-upgrade",
-        "type": "github"
+        "type": "tarball",
+        "url": "https://flakehub.com/f/DeterminateSystems/nix/2.21.0-rc.1"
       }
     },
     "nix_2": {
